@@ -1,1 +1,1 @@
-alert("message");
+alert("Bonjour et bienvenue sur mon premier projet Git");
